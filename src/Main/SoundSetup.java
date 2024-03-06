@@ -20,9 +20,9 @@ public class SoundSetup {
     public void setSound(){
 
         String[] soundFilePaths = {
-                "C:\\Users\\eOn\\OneDrive\\Desktop\\Mygame\\src\\Resources\\Audio\\Background\\background01.wav",
-                "C:\\Users\\eOn\\OneDrive\\Desktop\\Mygame\\src\\Resources\\Audio\\Background\\keyFound.wav",
-                "C:\\Users\\eOn\\OneDrive\\Desktop\\Mygame\\src\\Resources\\Audio\\Background\\death.wav",
+                "src/Resources/Audio/Background/background01.wav",
+                "src/Resources/Audio/Background/keyFound.wav",
+                "src/Resources/Audio/Background/death.wav",
         };
 
         try {
